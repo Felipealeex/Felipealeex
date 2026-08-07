@@ -29,10 +29,10 @@ origem: "Brasil 🇧🇷"
 profissao: "Desenvolvedor Full Stack"
 foco_principal: "Backend Development"
 paixao: "Construir sistemas completos e inteligentes"
-experiencia: "Sistemas para o setor de Hotelaria"
+experiencia: "Sistemas para o setor de investimentos"
 modo: "Aprendizado contínuo // Evolução constante"
-objetivo: "Criar projetos profissionais, escaláveis e inovadores"
-status: "Sempre estudando novas tecnologias 🚀"
+objetivo: "Poder somar com uma empresa que faça sentido para minha pessoa"
+status: "Sempre estudando novas tecnologias e tendencias 🚀"
 ```
 
 <div align="center">
