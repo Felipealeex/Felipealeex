@@ -1,7 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=55&fontColor=00F5FF&fontAlignY=38&desc=INITIALIZING%20FE.EXE%20//%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- ===================== BANNER PRINCIPAL ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=55&fontColor=00F5FF&fontAlignY=38&desc=INITIALIZING%20FELIPE_ALEX.EXE%20//%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=60&lines=Ol%C3%A1%2C+eu+sou+F%C3%AA_;Desenvolvedor+Full+Stack;Especialista+em+PHP;Backend+Developer;Criando+solu%C3%A7%C3%B5es+inteligentes;Apaixonado+por+Tecnologia+e+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=60&lines=Ol%C3%A1%2C+eu+sou+Felipe+Alex;Desenvolvedor+Full+Stack;Especialista+em+PHP;Backend+Developer;Criando+solu%C3%A7%C3%B5es+inteligentes;Apaixonado+por+Tecnologia+e+IA" alt="Typing SVG" />
 </a>
 
 <br>
@@ -14,6 +18,7 @@
 
 <br>
 
+<!-- ===================== SOBRE MIM ===================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Sobre Mim
 
 ```yaml
@@ -36,6 +41,7 @@ status: "Sempre estudando novas tecnologias 🚀"
 
 <br>
 
+<!-- ===================== TECH STACK ===================== -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
@@ -64,7 +70,7 @@ status: "Sempre estudando novas tecnologias 🚀"
 <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Opera_PMS-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4=&logoColor=white" />
+<img src="https://img.shields.io/badge/Opera_PMS-8A2BE2?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -83,90 +89,30 @@ status: "Sempre estudando novas tecnologias 🚀"
 <tr>
 <td width="50%" valign="top">
 
-### 🏨 HotelOps
-**Sistema de Gestão Operacional Hoteleira**
+### 🏥 Clínica Alexander
+**Sistema de Gestão de Clínica**
 
-Plataforma completa para controle e operação de processos hoteleiros, otimizando rotinas internas e integrando dados operacionais em tempo real.
+Plataforma para uma clínica de pacientes, com gerenciamento completo de clientes, atendimentos e rotinas administrativas do dia a dia da clínica.
 
 `PHP` `MySQL` `JavaScript` `Bootstrap`
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
+<a href="https://clinicaalexander.com">
+  <img src="https://img.shields.io/badge/Acessar_Site-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 AuditSales
-**Central de Auditoria de Vendas**
+### 💊 Farmácia Zante
+**Sistema de Gestão de Farmácia**
 
-Sistema voltado à auditoria e conferência de vendas, com painéis analíticos para apoiar a tomada de decisão e o controle financeiro.
+Sistema para gerenciamento de pedidos, pagamentos e transações de clientes, além do controle geral da operação da farmácia.
 
-`PHP` `SQL Server` `Power BI` `REST API`
+`PHP` `MySQL` `JavaScript` `REST API`
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-FF00FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
+<img src="https://img.shields.io/badge/🚧_Em_Andamento-FFA500?style=for-the-badge&labelColor=0D1117" />
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🌐 Sistemas Web em PHP
-**Aplicações Web Full Stack**
-
-Desenvolvimento de sistemas web completos, do backend à interface, com foco em performance, segurança e boas práticas.
-
-`PHP` `MySQL` `HTML5` `CSS3` `Tailwind`
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Dashboards Power BI
-**Business Intelligence & Dados**
-
-Painéis interativos para visualização de indicadores estratégicos, transformando dados brutos em insights de negócio.
-
-`Power BI` `SQL` `DAX`
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 APIs REST
-**Integrações & Serviços Backend**
-
-Construção de APIs RESTful robustas para comunicação entre sistemas, integrações externas e consumo de dados.
-
-`PHP` `C#` `JSON` `REST`
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-FF00FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Projetos Full Stack
-**Do Backend ao Frontend**
-
-Soluções completas unindo backend sólido e interfaces modernas, aplicando as melhores práticas de arquitetura de software.
-
-`PHP` `JavaScript` `MySQL` `Bootstrap`
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </td>
 </tr>
@@ -178,7 +124,7 @@ Soluções completas unindo backend sólido e interfaces modernas, aplicando as 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Objetivos Atuais
 
 ```bash
-fe@dev:~$ ./status_atual.sh
+felipealex@dev:~$ ./status_atual.sh
 
 [✔] Aprimorando PHP avançado...
 [✔] Construindo projetos completos...
@@ -202,16 +148,16 @@ Processo em execução... [##########----------] 55%
 
 ## <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30"> GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9&ring_color=8A2BE2" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Felipealeex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9&ring_color=8A2BE2&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipealeex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" width="42%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=8A2BE2&fire=FF00FF&currStreakLabel=00F5FF" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipealeex&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=8A2BE2&fire=FF00FF&currStreakLabel=00F5FF" width="70%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00FF&point=8A2BE2" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipealeex&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00FF&point=8A2BE2" width="95%" />
 
 </div>
 
@@ -222,7 +168,7 @@ Processo em execução... [##########----------] 55%
 
 ## <img src="https://media.giphy.com/media/xUOxf48UBpAWOCXX3O/giphy.gif" width="30"> Conquistas
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Felipealeex&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" width="100%" />
 
 </div>
 
@@ -233,7 +179,7 @@ Processo em execução... [##########----------] 55%
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Contribuições
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Felipealeex/Felipealeex/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <sub>⚙️ Gerado automaticamente via GitHub Actions — <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 
@@ -252,16 +198,16 @@ Processo em execução... [##########----------] 55%
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Conecte-se Comigo
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Felipealeex">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/SEU_USUARIO">
+<a href="https://www.linkedin.com/in/felipe-alex-689153252">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:seuemail@exemplo.com">
+<a href="mailto:felipealeexo@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://instagram.com/SEU_USUARIO">
+<a href="https://instagram.com/felipealeex">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -279,21 +225,6 @@ Processo em execução... [##########----------] 55%
 <br>
 
 <img src="https://img.shields.io/badge/CONNECTION-STABLE-00F5FF?style=flat-square&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=8A2BE2&label=VISUALIZAÇÕES" />
+<img src="https://komarev.com/ghpvc/?username=Felipealeex&style=flat-square&color=8A2BE2&label=VISUALIZAÇÕES" />
 
 </div>
-
-<!--
-**Felipealeex/Felipealeex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
