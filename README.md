@@ -1,286 +1,294 @@
 <div align="center">
 
-FELIPE ALEX
+<!-- ===================== HERO ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,25&height=220&section=header&text=FELIPE%20ALEX&fontSize=70&fontColor=00F5FF&fontAlignY=42&animation=twinkling&desc=root@backend%20~%20%23%20booting%20full-stack%20engineer.sh&descAlignY=62&descSize=17&descColor=8A2BE2" width="100%"/>
 
-FULL STACK DEVELOPER · BACKEND · SYSTEMS
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&height=45&lines=Transformando+regras+de+neg%C3%B3cio+em+software.;Construindo+sistemas+que+resolvem+problemas+reais.;PHP+%7C+MySQL+%7C+JavaScript+%7C+APIs;Sempre+aprendendo.+Sempre+construindo." alt="Typing animation" />
-</p>
-
-<p>
-  <a href="https://github.com/Felipealeex">
-    <img src="https://img.shields.io/badge/GitHub-Felipealeex-111827?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-alex-689153252">
-    <img src="https://img.shields.io/badge/LinkedIn-Felipe_Alex-111827?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:felipealeexo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-111827?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
-01 / SOBRE
-
-Não gosto de desenvolver software apenas para "funcionar".
-
-Meu foco está em transformar necessidades reais em sistemas completos, pensando em regra de negócio, banco de dados, segurança, experiência do usuário e manutenção.
-
-Atuo principalmente com PHP e MySQL, além de JavaScript, C#, Python, SQL Server e ferramentas do ecossistema web.
-
-Meu objetivo: escrever código que faça sentido hoje e continue fazendo sentido quando o projeto crescer.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=650&height=50&lines=%3E+whoami+%E2%86%92+Desenvolvedor+Full+Stack;%3E+skills+--focus%3Dbackend+--lang%3Dphp;%3E+status+%E2%86%92+construindo+sistemas+reais;%3E+missao+%E2%86%92+somar+valor+de+verdade" alt="Typing SVG" />
 
 <br>
 
-<table>
+<img src="https://img.shields.io/badge/UPTIME-∞_DIAS_ESTUDANDO-00F5FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/BASE-BRASIL_🇧🇷-8A2BE2?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CORE-BACKEND_ENGINEERING-FF00FF?style=for-the-badge&labelColor=0D1117" />
+
+</div>
+
+<br>
+
+<!-- ===================== SOBRE MIM ===================== -->
+## 🧠 Boot Sequence
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-O que me move
+```yaml
+$ cat perfil.yaml
 
-Construção de sistemas do zero
-
-Backend e lógica de negócio
-
-Modelagem e persistência de dados
-
-Integrações e APIs
-
-Interfaces funcionais e responsivas
-
-Resolução de problemas reais
+nome: Felipe Alex
+origem: Brasil 🇧🇷
+cargo: Desenvolvedor Full Stack
+core: Backend Development
+background: >
+  Sistemas para o setor de investimentos —
+  onde erro de lógica vira erro de dinheiro,
+  então aprendi a escrever código que não falha.
+mentalidade: "Entender o problema antes de abrir o editor"
+modo_atual: aprendizado_continuo == true
+objetivo: >
+  Somar valor real dentro de uma empresa
+  que faça sentido pra minha trajetória.
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-Como penso
-
-Problema
-   ↓
-Regra de negócio
-   ↓
-Arquitetura
-   ↓
-Implementação
-   ↓
-Validação
-   ↓
-Experiência do usuário
-   ↓
-Entrega
+```
+┌──────────────────────────┐
+│   SYSTEM DIAGNOSTICS      │
+├──────────────────────────┤
+│ Lógica........... 100%   │
+│ Backend PHP...... 100%   │
+│ Persistência..... 100%   │
+│ Curiosidade...... ∞      │
+│ Café necessário.. sempre │
+└──────────────────────────┘
+```
 
 </td>
 </tr>
 </table>
 
-02 / STACK
-
 <div align="center">
-
-BACKEND & DATABASE
-
-<img src="https://skillicons.dev/icons?i=php,mysql,cs,python,sqlserver" />
-
-<br><br>
-
-FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
-
-<br><br>
-
-WORKFLOW & TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" />
-<img src="https://img.shields.io/badge/Opera_PMS-6D28D9?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=3&width=850" />
 </div>
 
-03 / PROJETOS PRINCIPAIS
+<br>
 
-Projetos escolhidos não apenas pelo visual, mas pela complexidade das regras de negócio e pela experiência de construir o sistema de ponta a ponta.
+<!-- ===================== TECH STACK COM BARRAS ===================== -->
+## ⚡ Stack & Domínio Técnico
 
-🏥 Clínica Alexander
-
-Sistema de agendamento e gestão para clínicas
-
-Uma aplicação web desenvolvida para representar um fluxo real de atendimento clínico, conectando pacientes, profissionais, especialidades, horários e administração em um único sistema.
-
-O projeto foi pensado com foco em regras de negócio, controle de acesso e uma experiência simples para quem utiliza a plataforma.
-
-O que o projeto demonstra
-
-Agendamento por especialidade, médico, data e horário
-
-Área do paciente
-
-Cancelamento de consulta com token de segurança
-
-Painel administrativo
-
-Gestão de informações da clínica
-
-Backend desenvolvido em PHP
-
-Persistência de dados com MySQL
-
-Stack
-
-PHP MySQL JavaScript Bootstrap
-
-<p>
-  <a href="https://clinicaalexsander.wuaze.com/">
-    <img src="https://img.shields.io/badge/●_LIVE_DEMO-7C3AED?style=for-the-badge&labelColor=111827" />
-  </a>
-  <a href="https://github.com/Felipealeex/ClinicaAlexsander">
-    <img src="https://img.shields.io/badge/⌘_SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-🚌 GetBus BR
-
-Plataforma de reserva de viagens de ônibus
-
-Um sistema completo de reservas desenvolvido para simular uma operação real de venda de passagens online, indo além de um simples CRUD.
-
-A aplicação reúne autenticação, validação de pagamento, reserva de viagem e emissão de passagem em PDF, com todo o backend construído em PHP puro.
-
-O que o projeto demonstra
-
-Cadastro e autenticação de usuários
-
-Reserva de passagens online
-
-Formulário de pagamento com validação
-
-Processamento das informações da reserva
-
-Emissão e impressão da passagem em PDF
-
-Integração entre frontend, backend e banco de dados
-
-Estrutura desenvolvida sem framework backend
-
-Stack
-
-PHP MySQL JavaScript HTML CSS
-
-<p>
-  <a href="https://getbus.wuaze.com/">
-    <img src="https://img.shields.io/badge/●_LIVE_DEMO-0EA5E9?style=for-the-badge&labelColor=111827" />
-  </a>
-  <a href="https://github.com/Felipealeex/GetBus">
-    <img src="https://img.shields.io/badge/⌘_SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-04 / O QUE VOCÊ ENCONTRA NOS MEUS PROJETOS
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-01
+**Linguagens**
 
-BACKEND
-
-PHP e lógica de negócio pensados para resolver fluxos reais.
-
-</td>
-<td align="center" width="25%">
-
-02
-
-DATABASE
-
-Modelagem, relacionamentos e persistência com SQL.
+<img src="https://progress-bar.dev/95/?title=PHP&width=280&color=00F5FF" />
+<img src="https://progress-bar.dev/80/?title=SQL&width=280&color=8A2BE2" />
+<img src="https://progress-bar.dev/70/?title=JavaScript&width=280&color=FF00FF" />
+<img src="https://progress-bar.dev/60/?title=C%23&width=280&color=00F5FF" />
+<img src="https://progress-bar.dev/55/?title=Python&width=280&color=8A2BE2" />
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-03
+**Ecossistema**
 
-PRODUCT
-
-Interfaces construídas pensando em quem realmente vai usar.
-
-</td>
-<td align="center" width="25%">
-
-04
-
-EVOLUTION
-
-Projetos usados como laboratório para aprender, testar e melhorar.
+<img src="https://progress-bar.dev/85/?title=MySQL&width=280&color=FF00FF" />
+<img src="https://progress-bar.dev/75/?title=REST%20API&width=280&color=00F5FF" />
+<img src="https://progress-bar.dev/70/?title=SQL%20Server&width=280&color=8A2BE2" />
+<img src="https://progress-bar.dev/65/?title=Git%20/%20GitHub&width=280&color=FF00FF" />
+<img src="https://progress-bar.dev/50/?title=Arquitetura%20de%20Software&width=280&color=00F5FF" />
 
 </td>
 </tr>
 </table>
 
-05 / GITHUB
-
 <div align="center">
 
-<a href="https://github.com/Felipealeex">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Felipealeex&show_icons=true&hide_border=true&bg_color=0F172A&title_color=FFFFFF&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github" />
-</a>
-<a href="https://github.com/Felipealeex">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipealeex&layout=compact&hide_border=true&bg_color=0F172A&title_color=FFFFFF&text_color=CBD5E1&langs_count=7" />
-</a>
+**Ferramentas do dia a dia**
 
-<br><br>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Felipealeex&hide_border=true&background=0F172A&stroke=334155&ring=8B5CF6&fire=F59E0B&currStreakLabel=FFFFFF&sideLabels=CBD5E1&dates=94A3B8" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Opera_PMS-8A2BE2?style=for-the-badge&logoColor=white" />
 
 </div>
 
-06 / EM CONSTRUÇÃO
-
-[████████████████░░░░] 80%
-
-PHP avançado             ████████████████████
-Projetos completos       ███████████████████░
-Arquitetura de software  ███████████████░░░░░
-APIs e integrações       ███████████████░░░░░
-Inteligência Artificial  ███████████░░░░░░░░░
-
-Não vejo aprendizado como uma etapa antes do desenvolvimento.
-
-Aprender faz parte do desenvolvimento.
-
-Cada projeto novo é uma oportunidade para sair do "eu sei fazer" e chegar mais perto do "eu sei por que estou fazendo assim".
-
-07 / CONTATO
+<br>
 
 <div align="center">
-
-Vamos construir alguma coisa interessante?
-
-<p>
-  <a href="mailto:felipealeexo@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-alex-689153252">
-    <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Felipealeex">
-    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:FF00FF&height=3&width=850" />
+</div>
 
 <br>
 
-<sub>Desenvolvido por Felipe Alex · Brasil 🇧🇷</sub>
+<!-- ===================== COMO EU PENSO ===================== -->
+## 🗺️ Como Eu Encaro um Sistema
+
+```mermaid
+flowchart LR
+    A[Entender a dor<br/>do negócio] --> B[Modelar dados<br/>com cuidado]
+    B --> C[Construir backend<br/>PHP + MySQL]
+    C --> D[Expor via<br/>REST API]
+    D --> E[Testar até<br/>quebrar]
+    E --> F[Entregar sistema<br/>que roda sozinho]
+    style A fill:#0D1117,stroke:#00F5FF,color:#00F5FF
+    style B fill:#0D1117,stroke:#8A2BE2,color:#8A2BE2
+    style C fill:#0D1117,stroke:#FF00FF,color:#FF00FF
+    style D fill:#0D1117,stroke:#00F5FF,color:#00F5FF
+    style E fill:#0D1117,stroke:#8A2BE2,color:#8A2BE2
+    style F fill:#0D1117,stroke:#FF00FF,color:#FF00FF
+```
+
+<br>
+
+<!-- ===================== PROJETOS ===================== -->
+## 🚀 Projetos em Produção
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Clínica Alexander
+**Sistema de Gestão de Clínica**
+
+Plataforma completa para o dia a dia de uma clínica: gerenciamento de pacientes, atendimentos e rotinas administrativas em um único painel.
+
+`PHP` `MySQL` `JavaScript` `Bootstrap`
+
+<a href="https://github.com/Felipealeex/ClinicaAlexsander">
+  <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://clinicaalexsander.wuaze.com/">
+  <img src="https://img.shields.io/badge/Live_Demo-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+
+<img src="https://progress-bar.dev/100/?title=Status&width=280&color=00F5FF" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🚌 GetBus BR
+**Sistema de Passagens Rodoviárias**
+
+Plataforma para busca, gerenciamento e organização de viagens de ônibus, pensada para ser simples de usar e sólida por baixo do capô.
+
+`PHP` `MySQL` `JavaScript` `REST API`
+
+<a href="https://github.com/Felipealeex/GetBus">
+  <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://getbus.wuaze.com/">
+  <img src="https://img.shields.io/badge/Live_Demo-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<img src="https://progress-bar.dev/100/?title=Status&width=280&color=FF00FF" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00F5FF&height=3&width=850" />
+</div>
+
+<br>
+
+<!-- ===================== OBJETIVOS ATUAIS ===================== -->
+## 🎯 Em Execução Agora
+
+```bash
+felipealex@dev:~$ ./roadmap.sh --live
+
+[✔] PHP avançado ................................ concluído
+[✔] Projetos full stack do zero à produção ...... concluído
+[⏳] Arquitetura de Software ..................... em progresso
+[⏳] Inteligência Artificial aplicada ao backend . em progresso
+[🔄] Evolução diária ............................. contínuo
+
+Progresso geral: [##########----------] 55%
+```
+
+<br>
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Felipealeex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=C9D1D9&ring_color=8A2BE2&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipealeex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" width="42%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipealeex&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=8A2BE2&fire=FF00FF&currStreakLabel=00F5FF" width="70%"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=120&section=footer" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipealeex&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00FF&point=8A2BE2" width="95%" />
+
+</div>
+
+<br>
+
+<!-- ===================== TROPHIES ===================== -->
+<div align="center">
+
+## 🏆 Conquistas
+
+<img src="https://github-profile-trophy.vercel.app/?username=Felipealeex&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" width="100%" />
+
+</div>
+
+<br>
+
+<!-- ===================== SNAKE ===================== -->
+<div align="center">
+
+## 🐍 Contribuições
+
+<img src="https://raw.githubusercontent.com/Felipealeex/Felipealeex/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<sub>⚙️ Gerado automaticamente via GitHub Actions — <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8A2BE2&height=3&width=850" />
+</div>
+
+<br>
+
+<!-- ===================== CONTATO ===================== -->
+<div align="center">
+
+## 📡 Canais de Contato
+
+<a href="https://github.com/Felipealeex">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/felipe-alex-689153252">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:felipealeexo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/felipealeex">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=25,20,12&height=140&section=footer" width="100%"/>
+
+<i>"Todo sistema bom começa com alguém disposto a entender o problema antes de escrever a primeira linha."</i>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CONNECTION-STABLE-00F5FF?style=flat-square&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=Felipealeex&style=flat-square&color=8A2BE2&label=VISUALIZAÇÕES" />
 
 </div>
